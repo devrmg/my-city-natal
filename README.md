@@ -1,2 +1,2 @@
 # my-city-natal
- Site feito em homenagem a minha Cidade Natal - Minas Novas - MG
+ Site feito com WordPress, em homenagem a minha Cidade Natal - Minas Novas - MG
